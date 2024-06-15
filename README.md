@@ -25,7 +25,8 @@ Here're some of the project's features :
     * Logout
  
 Here're some of the project's not complete features :
-    * Merge row table same data in column departement and pass %
+*  Welcome Page :
+    *  Merge row table same data in column departement and pass %
 
 <br />
 <h2>🖥️ Layout</h2>
